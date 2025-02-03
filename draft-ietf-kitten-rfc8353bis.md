@@ -16,7 +16,7 @@ pi:
 title: 'Generic Security Service API Version 2: Java Bindings Update'
 abbrev: Java GSS-API Update
 docname: draft-ietf-kitten-rfc8353bis-latest
-area: General
+area: ""
 wg: Network Working Group
 kw: JGSS
 date: 2018-05
